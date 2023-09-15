@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-23.05";
 
-    flake-utils-plus.url = "path:/Users/short/work/flake-utils-plus";
+    flake-utils-plus.url = "github:jakehamilton/flake-utils-plus/fix/safe-filter-channels";
 
     agenix = {
       url = "github:ryantm/agenix";

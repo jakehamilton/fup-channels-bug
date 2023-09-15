@@ -64,14 +64,18 @@
         "flake-utils": "flake-utils"
       },
       "locked": {
-        "lastModified": 1694756301,
-        "narHash": "sha256-t5S4/9pnp8ok0SCGGGDdl1xe+8W3ialLzP1uQ42a3h4=",
-        "path": "/Users/short/work/flake-utils-plus",
-        "type": "path"
+        "lastModified": 1694756938,
+        "narHash": "sha256-LZprVmOTM+3iykh248bajobX9ludnMC/Ai5rOqimtFc=",
+        "owner": "jakehamilton",
+        "repo": "flake-utils-plus",
+        "rev": "6f2ca6e3b1834396a0e5aa7450bbc7f4d3de92fc",
+        "type": "github"
       },
       "original": {
-        "path": "/Users/short/work/flake-utils-plus",
-        "type": "path"
+        "owner": "jakehamilton",
+        "ref": "fix/safe-filter-channels",
+        "repo": "flake-utils-plus",
+        "type": "github"
       }
     },
     "home-manager": {
